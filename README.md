@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Version](https://img.shields.io/badge/version-0.1.1-blue.svg?style=for-the-badge)
+![Version](https://img.shields.io/badge/version-0.1.3-blue.svg?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/platform-Windows-0078D6.svg?style=for-the-badge&logo=windows)
 ![License](https://img.shields.io/badge/license-MIT-green.svg?style=for-the-badge)
 ![League of Legends](https://img.shields.io/badge/League%20of%20Legends-Compatible-C28F2C.svg?style=for-the-badge)
@@ -10,6 +10,12 @@
 **League of Legends için Profesyonel Skin Değiştirici**
 
 *Oyun deneyiminizi özelleştirin, tüm şampiyonların görünümünü istediğiniz gibi değiştirin!*
+
+### 💬 Topluluğumuza Katılın!
+
+[![Discord](https://img.shields.io/badge/Discord-Sunucumuza%20Katıl-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/puffskin)
+
+**👨‍💻 Geliştirici:** copief
 
 [📥 İndir](#-kurulum) • [✨ Özellikler](#-özellikler) • [📖 Kullanım Kılavuzu](#-kullanim-kilavuzu) • [❓ SSS](#-sık-sorulan-sorular)
 
@@ -215,9 +221,9 @@
      - Ayarlar → League Yolu → Gözat
      - `LeagueClient.exe` dosyasını bulun
 
-3. **Giriş Yapma**
-   - Token ile giriş yapın (üyelik gerekliliği varsa)
-   - Veya konuk olarak devam edin
+3. **Hazır!**
+   - Artık kullanmaya başlayabilirsiniz
+   - Discord sunucumuza katılarak destek alabilirsiniz
 
 ### ⚡ Hızlı Başlangıç
 
@@ -415,9 +421,9 @@
 - Log dosyası konumu
 
 **Güvenlik**
-- Donanım ID doğrulama
 - Şifreli konfigürasyon
-- Token yönetimi
+- Güvenli bağlantı
+- Veri koruma
 
 ---
 
@@ -528,24 +534,19 @@
 **PUFF**, güvenliğinizi ön planda tutar:
 
 ✅ **Şifreli Veri Saklama**
-- Tüm hassas veriler AES-256 ile şifrelenir
-- Token'lar güvenli şekilde saklanır
-- Kullanıcı bilgileri korunur
+- Ayarlarınız güvenli şekilde saklanır
+- Verileriniz yerel olarak korunur
+- Kişisel bilgileriniz güvende
 
-✅ **Donanım Kimlik Doğrulama**
-- Her cihaz için benzersiz ID
-- Yetkisiz erişim engellenir
-- Çoklu cihaz desteği
-
-✅ **Firebase Güvenliği**
-- Güvenli bulut bağlantısı
+✅ **Güvenli Bağlantı**
 - SSL/TLS şifreleme
-- İzin tabanlı erişim
+- Güvenli güncelleme sistemi
+- Dijital imza doğrulaması
 
 ✅ **Kod Bütünlüğü**
-- Dijital imza doğrulaması
 - Anti-tamper koruması
 - Güvenli güncelleme mekanizması
+- Açık kaynak şeffaflığı
 
 ### Gizlilik Politikası
 
@@ -567,14 +568,8 @@ PUFF şunları **YAPAR**:
 **Yerel Veriler**
 - Konum: `%APPDATA%/copief/`
 - İçerik: Ayarlar, önbellek, özel skin'ler
-- Şifreleme: AES-256
+- Şifreleme: Güvenli şekilde saklanır
 - Yedekleme: Manuel yedekleme önerilir
-
-**Bulut Veriler**
-- Sadece kimlik doğrulama token'ı
-- Firebase güvenli veritabanı
-- SSL şifreli bağlantı
-- Dilediğiniz zaman silebilirsiniz
 
 ### Güvenlik Tavsiyeleri
 
@@ -586,11 +581,7 @@ PUFF şunları **YAPAR**:
    - Otomatik güncellemeleri açık bırakın
    - Güvenlik yamalarını atlayamayın
 
-3. ✅ **Token'ınızı koruyun**
-   - Token'ınızı kimseyle paylaşmayın
-   - Şüpheli durumlarda token'ı yenileyin
-
-4. ✅ **Antivirüs uyarıları**
+3. ✅ **Antivirüs uyarıları**
    - İlk çalıştırmada uyarı normaldir
    - Güvenli listesine ekleyebilirsiniz
    - VirusTotal kontrolü yapabilirsiniz
@@ -608,7 +599,7 @@ PUFF şunları **YAPAR**:
 > C: PUFF sadece görsel değişiklikler yapar ve oyun dosyalarına kalıcı müdahale etmez. Ancak, tüm 3. parti yazılımlar gibi kullanımı kendi sorumluluğunuzdadır. Riot Games'in kullanım şartlarını okumanızı öneririz.
 
 **S: Ücretli mi?**
-> C: PUFF tamamen ücretsizdir. Ancak bazı premium özelliklere erişim için token sistemimiz bulunabilir.
+> C: PUFF tamamen ücretsizdir.
 
 **S: Hangi platformlarda çalışır?**
 > C: Şu anda sadece Windows 10/11 (64-bit) desteklenmektedir.
@@ -761,16 +752,6 @@ PUFF şunları **YAPAR**:
    - PUFF'u tekrar başlat
    ```
 
-#### ❌ "Token geçersiz"
-
-**Çözüm:**
-```
-1. Ayarlar → Hesap → Token Yönetimi
-2. "Token'ı Yenile" butonuna tıklayın
-3. Yeni token alın ve girin
-4. Kaydet ve yeniden giriş yapın
-```
-
 #### ❌ "Güncelleme başarısız"
 
 **Çözüm:**
@@ -870,15 +851,19 @@ Sorunları raporlarken log dosyalarını ekleyin:
 
 ### Yardım Kaynakları
 
+#### 💬 Discord Sunucusu (ÖNERİLEN)
+[![Discord](https://img.shields.io/badge/Discord-Katıl-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/puffskin)
+
+**Discord sunucumuzda:**
+- ✅ Anlık destek alın
+- ✅ Toplulukla sohbet edin
+- ✅ Güncellemelerden haberdar olun
+- ✅ Önerilerde bulunun
+- ✅ Hataları bildirin
+
 #### 🌐 GitHub
 - **Issues**: [github.com/copief/puffskin/issues](https://github.com/copief/puffskin/issues)
 - **Discussions**: [github.com/copief/puffskin/discussions](https://github.com/copief/puffskin/discussions)
-- **Wiki**: Detaylı dokümantasyon
-
-#### 💬 Topluluk
-- Discord sunucusu (varsa)
-- Reddit topluluğu (varsa)
-- Forum (varsa)
 
 ### Hata Raporlama
 
@@ -1008,10 +993,10 @@ SOFTWARE.
 
 PUFF'u mümkün kılan herkese teşekkürler:
 
-### Teknoloji Ortakları
+### Teknoloji
 - **Electron**: Çapraz platform uygulama framework'ü
-- **Firebase**: Güvenli kimlik doğrulama ve veritabanı
 - **GitHub**: Kod hosting ve güncelleme sistemi
+- **Node.js**: Backend runtime
 
 ### Topluluk
 - Beta test ekibi
@@ -1021,8 +1006,13 @@ PUFF'u mümkün kılan herkese teşekkürler:
 
 ### Özel Teşekkür
 - League of Legends topluluğu
+- Discord topluluğumuz
 - Tüm skin sanatçıları
+- Beta test ekibi
 - Açık kaynak katkıda bulunanlar
+
+### 👨‍💻 Geliştirici
+**copief** - [GitHub](https://github.com/copief)
 
 ---
 
@@ -1057,16 +1047,22 @@ Bu proje size yardımcı olduysa, GitHub'da ⭐ vererek destek olabilirsiniz!
 
 ### 📱 Bağlantılar
 
+[![Discord](https://img.shields.io/badge/Discord-Sunucumuza%20Katıl-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/puffskin)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/copief/puffskin)
 [![Releases](https://img.shields.io/badge/Download-Latest-blue?style=for-the-badge&logo=download)](https://github.com/copief/puffskin/releases)
 [![Issues](https://img.shields.io/badge/Issues-Report-red?style=for-the-badge&logo=github)](https://github.com/copief/puffskin/issues)
-[![Discussions](https://img.shields.io/badge/Discussions-Forum-green?style=for-the-badge&logo=github)](https://github.com/copief/puffskin/discussions)
 
 ---
 
 **League of Legends topluluğu için ❤️ ile yapıldı**
 
+*Sorularınız mı var? Discord sunucumuza katılın!* 💬
+
+[![Discord Banner](https://img.shields.io/discord/YOUR_SERVER_ID?color=7289DA&label=Discord%20Sunucumuz&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/puffskin)
+
 *Oyun deneyiminizin tadını çıkarın!* 🎮✨
+
+**Geliştirici:** [copief](https://github.com/copief)
 
 [⬆ Başa Dön](#-puff-skin-changer)
 
