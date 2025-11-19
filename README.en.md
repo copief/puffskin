@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Version](https://img.shields.io/badge/version-0.1.3-blue.svg?style=for-the-badge)
+![Version](https://img.shields.io/badge/version-0.1.1-blue.svg?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/platform-Windows-0078D6.svg?style=for-the-badge&logo=windows)
 ![License](https://img.shields.io/badge/license-MIT-green.svg?style=for-the-badge)
 ![League of Legends](https://img.shields.io/badge/League%20of%20Legends-Compatible-C28F2C.svg?style=for-the-badge)
@@ -1070,4 +1070,5 @@ If this project helped you, you can support by giving a ⭐ on GitHub!
 [⬆ Back to Top](#-puff-skin-changer)
 
 </div>
+
 
