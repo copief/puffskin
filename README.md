@@ -73,7 +73,7 @@ PUFF Skin Changer is a professional, feature-rich application for League of Lege
 - Administrator privileges (for first-time setup)
 
 ### Download
-1. Go to the [Releases](https://github.com/Adolphaa/puffskin/releases) page
+1. Go to the [Releases](https://github.com/copief/puffskin/releases) page
 2. Download the latest `PUFF-Skin-Changer-x.x.x-x64-portable.exe`
 3. Extract or run the executable
 
@@ -115,66 +115,6 @@ PUFF Skin Changer is a professional, feature-rich application for League of Lege
 
 ## 🔨 Building from Source
 
-### Prerequisites
-- Node.js 18+ and npm
-- Git
-
-### Clone the Repository
-```bash
-git clone https://github.com/Adolphaa/puffskin.git
-cd puffskin
-```
-
-### Install Dependencies
-```bash
-npm install
-```
-
-### Development Mode
-```bash
-npm run dev
-```
-
-### Build for Production
-```bash
-# Portable build
-npm run build
-
-# Windows installer
-npm run build:installer
-
-# All Windows targets
-npm run build:win
-```
-
-### Build Output
-Built files will be in the `dist/` directory.
-
-## 📁 Project Structure
-
-```
-puffskin/
-├── src/                    # Source code
-│   ├── assets/            # Images and static assets
-│   ├── modules/           # Core modules
-│   │   ├── custom-skins-manager.js
-│   │   ├── favorites-manager.js
-│   │   ├── secure-config-manager.cjs
-│   │   ├── skin-id-mapping-manager.cjs
-│   │   ├── theme-manager.js
-│   │   └── ui-utils.js
-│   ├── index.html         # Main HTML
-│   ├── renderer.js        # Renderer process
-│   ├── styles.css         # Styles
-│   └── translations.js    # i18n translations
-├── tools/                 # External tools and utilities
-├── customs/               # Custom skin files
-├── build/                 # Build configuration
-├── main.js               # Main Electron process
-├── preload.cjs           # Preload script
-└── package.json          # Project configuration
-```
-
 ## 🔒 Security
 
 ### Security Features
@@ -209,18 +149,11 @@ Contributions are welcome! Please follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- League of Legends community
-- Electron team
-- Firebase team
-- All contributors and testers
-
 ## 📧 Contact
 
 For issues, questions, or suggestions:
-- Open an issue on [GitHub Issues](https://github.com/Adolphaa/puffskin/issues)
-- Check the [Discussions](https://github.com/Adolphaa/puffskin/discussions) page
+- Open an issue on [GitHub Issues](https://github.com/copef/puffskin/issues)
+- Check the [Discussions](https://github.com/copief/puffskin/discussions) page
 
 ---
 
