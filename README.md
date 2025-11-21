@@ -4,583 +4,581 @@
 
 ![PUFF Banner](https://cdn.discordapp.com/attachments/1100782767828115467/1441493294700957777/20F50A82-6608-45B9-B7E7-6D9B6F55BC5D.png?ex=6921febf&is=6920ad3f&hm=ad25b3da9c2a5f3bb75d432f08dac28fedba636b91997771641d1faa9bec341b&)
 
-![Version](https://img.shields.io/badge/versiyon-0.1.2-blue.svg?style=for-the-badge)
+![Version](https://img.shields.io/badge/version-0.1.2-blue.svg?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/platform-Windows-0078D6.svg?style=for-the-badge&logo=windows)
-![License](https://img.shields.io/badge/lisans-MIT-green.svg?style=for-the-badge)
+![License](https://img.shields.io/badge/license-MIT-green.svg?style=for-the-badge)
 
-**League of Legends 2025 için Modern ve Profesyonel Skin Değiştirici**
+**Modern and Professional Skin Changer for League of Legends 2025**
 
-*Tüm şampiyonların görünümünü değiştirin, favori skin'lerinizi ücretsiz kullanın!*
+*Change the appearance of all champions, use your favorite skins for free!*
 
-[![Discord](https://img.shields.io/badge/Discord-Sunucumuza%20Katıl-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/puffskin)
-[![İndir](https://img.shields.io/badge/İndir-Son%20Sürüm-brightgreen?style=for-the-badge&logo=download)](https://github.com/copief/PUFF-Skin-Changer/releases)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/puffskin)
+[![Download](https://img.shields.io/badge/Download-Latest%20Release-brightgreen?style=for-the-badge&logo=download)](https://github.com/copief/PUFF-Skin-Changer/releases)
 
-**👨‍💻 Geliştirici:** [copief](https://github.com/copief)
+**👨‍💻 Developer:** [copief](https://github.com/copief)
 
-[📥 İndir](#-kurulum) • [✨ Özellikler](#-özellikler) • [📖 Nasıl Kullanılır](#-kullanim-kilavuzu) • [❓ SSS](#-sık-sorulan-sorular)
+[📥 Download](#-installation) • [✨ Features](#-features) • [📖 How to Use](#-user-guide) • [❓ FAQ](#-frequently-asked-questions)
 
 </div>
 
 ---
 
-## 📋 İçindekiler
+## 📋 Table of Contents
 
-- [🎯 PUFF Nedir?](#-puff-nedir)
-- [✨ Özellikler](#-özellikler)
-- [💻 Sistem Gereksinimleri](#-sistem-gereksinimleri)
-- [📥 Kurulum](#-kurulum)
-- [📖 Kullanım Kılavuzu](#-kullanim-kilavuzu)
-- [🎨 Ekran Görüntüleri](#-ekran-görüntüleri)
-- [❓ Sık Sorulan Sorular](#-sık-sorulan-sorular)
-- [🔒 Güvenlik](#-güvenlik)
-- [💬 Destek](#-destek)
-- [📜 Lisans ve Yasal Uyarı](#-lisans-ve-yasal-uyarı)
-
----
-
-## 🎯 PUFF Nedir?
-
-**PUFF Skin Changer**, League of Legends oyuncuları için geliştirilmiş modern ve güçlü bir skin değiştirici uygulamasıdır. 2025 sezonuna özel olarak optimize edilmiş bu uygulama ile tüm şampiyonların görünümünü istediğiniz gibi değiştirebilirsiniz.
-
-### 🌟 Neden PUFF?
-
-- ✅ **Kolay Kullanım** - Sade ve modern arayüz
-- ✅ **Hızlı ve Kararlı** - Anında skin uygulama
-- ✅ **Tamamen Ücretsiz** - Hiçbir ödeme gerektirmez
-- ✅ **Güvenli** - Şifreli veri saklama
-- ✅ **Kurulum Gerektirmez** - Portable (taşınabilir) yapı
-- ✅ **Otomatik Güncelleme** - Her zaman güncel kalın
-- ✅ **Türkçe Arayüz** - Tam Türkçe dil desteği
-- ✅ **Özel Skin Desteği** - .fantome dosyalarını içe aktarın
+- [🎯 What is PUFF?](#-what-is-puff)
+- [✨ Features](#-features)
+- [💻 System Requirements](#-system-requirements)
+- [📥 Installation](#-installation)
+- [📖 User Guide](#-user-guide)
+- [🎨 Screenshots](#-screenshots)
+- [❓ Frequently Asked Questions](#-frequently-asked-questions)
+- [🔒 Security](#-security)
+- [💬 Support](#-support)
+- [📜 License and Legal Notice](#-license-and-legal-notice)
 
 ---
 
-## ✨ Özellikler
+## 🎯 What is PUFF?
 
-### 🎨 **Geniş Skin Kütüphanesi**
+**PUFF Skin Changer** is a modern and powerful skin changer application developed for League of Legends players. Optimized specifically for the 2025 season, this application allows you to change the appearance of all champions as you wish.
 
-- **Tüm şampiyonlar** için binlerce skin seçeneği
-- Yüksek kaliteli **skin önizlemeleri**
-- **Kategorilere göre filtreleme** (Nadir, Efsanevi, Ultimate vb.)
-- Grid ve liste görünümü arasında geçiş
-- Hızlı arama ve filtreleme sistemi
+### 🌟 Why PUFF?
 
-### 🤖 **Gelişmiş Otomasyon**
-
-#### **Auto Accept (Otomatik Kabul)**
-- Maç bulunduğunda **otomatik kabul eder**
-- Ayarlanabilir gecikme süresi
-- Sesli bildirim desteği
-
-#### **Auto Ban/Pick (Otomatik Ban/Seç)**
-- Sıralı maçlarda **otomatik şampiyon banlama**
-- **Otomatik şampiyon seçimi**
-- Rol bazlı şampiyon tercihleri
-- Yedek şampiyon ayarlama
-
-#### **Auto Skin (Otomatik Skin)**
-- Seçilen şampiyona **otomatik skin uygular**
-- Favori skin'lerinizi hatırlar
-- Maç başlamadan skin hazır
-
-#### **Auto Skin Page (Otomatik Skin Sayfası)**
-- Şampiyon seçtiğinizde otomatik olarak skin sayfasına geçer
-- Daha hızlı skin değiştirme deneyimi
-
-### 🎨 **Görünüm ve Özelleştirme**
-
-#### **Tema Sistemi**
-- **Koyu (Dark)** ve **Açık (Light)** tema
-- 10+ hazır **renk paleti**
-- Özelleştirilebilir vurgu renkleri
-- Animasyon hızı kontrolü
-
-#### **Arayüz Düzeni**
-- Grid boyutu ayarlama (2-6 kolon)
-- Kompakt ve geniş görünüm modları
-- Özelleştirilebilir kenar çubuğu
-
-### 🌟 **Favori Sistemi**
-
-- En sevdiğiniz şampiyonları **favorilere ekleyin**
-- Hızlı erişim için favori listesi
-- Favori skin kaydetme ve otomatik uygulama
-
-### 📦 **Özel Skin Yönetimi**
-
-- **`.fantome` dosyalarını** içe aktarın
-- Özel skin'lerinizi yönetin ve düzenleyin
-- Skin meta verilerini özelleştirin
-- Sınırsız özel skin depolama
-
-### 🔍 **Akıllı Arama**
-
-- Hızlı şampiyon arama (Ctrl+F)
-- Alfabe navigasyonu (A-Z filtresi)
-- Kategori ve rol filtreleme
-- Arama geçmişi
-
-### ⚡ **Performans Optimizasyonu**
-
-- Hızlı yükleme için akıllı önbellekleme
-- Düşük RAM kullanımı
-- Optimize edilmiş görsel yükleme
-- Minimum CPU kullanımı
-
-### 🔄 **Otomatik Güncelleme**
-
-- GitHub üzerinden otomatik güncelleme kontrolü
-- Tek tıkla güncelleme kurulumu
-- Sürüm notlarını görüntüleme
+- ✅ **Easy to Use** - Clean and modern interface
+- ✅ **Fast and Stable** - Instant skin application
+- ✅ **Completely Free** - No payment required
+- ✅ **Secure** - Encrypted data storage
+- ✅ **No Installation Required** - Portable structure
+- ✅ **Auto-Update** - Always stay up to date
+- ✅ **Multi-Language** - Full language support
+- ✅ **Custom Skin Support** - Import .fantome files
 
 ---
 
-## 💻 Sistem Gereksinimleri
+## ✨ Features
 
-### Minimum Gereksinimler
+### 🎨 **Extensive Skin Library**
 
-| Bileşen | Gereksinim |
+- **All champions** with thousands of skin options
+- High-quality **skin previews**
+- **Filter by category** (Rare, Legendary, Ultimate, etc.)
+- Switch between grid and list views
+- Fast search and filtering system
+
+### 🤖 **Advanced Automation**
+
+#### **Auto Accept**
+- **Automatically accepts** when match is found
+- Adjustable delay time
+- Audio notification support
+
+#### **Auto Ban/Pick**
+- **Automatic champion banning** in ranked matches
+- **Automatic champion selection**
+- Role-based champion preferences
+- Backup champion setting
+
+#### **Auto Skin**
+- **Automatically applies skin** to selected champion
+- Remembers your favorite skins
+- Skin ready before match starts
+
+#### **Auto Skin Page**
+- Automatically switches to skin page when you select a champion
+- Faster skin changing experience
+
+### 🎨 **Appearance and Customization**
+
+#### **Theme System**
+- **Dark** and **Light** themes
+- 10+ ready-made **color palettes**
+- Customizable accent colors
+- Animation speed control
+
+#### **Interface Layout**
+- Grid size adjustment (2-6 columns)
+- Compact and wide view modes
+- Customizable sidebar
+
+### 🌟 **Favorites System**
+
+- Add your favorite champions to **favorites**
+- Quick access favorites list
+- Save and auto-apply favorite skins
+
+### 📦 **Custom Skin Management**
+
+- Import **`.fantome` files**
+- Manage and edit your custom skins
+- Customize skin metadata
+- Unlimited custom skin storage
+
+### 🔍 **Smart Search**
+
+- Quick champion search (Ctrl+F)
+- Alphabet navigation (A-Z filter)
+- Category and role filtering
+- Search history
+
+### ⚡ **Performance Optimization**
+
+- Smart caching for fast loading
+- Low RAM usage
+- Optimized image loading
+- Minimal CPU usage
+
+### 🔄 **Auto-Update**
+
+- Automatic update check via GitHub
+- One-click update installation
+- View release notes
+
+---
+
+## 💻 System Requirements
+
+### Minimum Requirements
+
+| Component | Requirement |
 |---------|-----------|
-| **İşletim Sistemi** | Windows 10 (64-bit) |
-| **İşlemci** | Intel Core i3 / AMD Ryzen 3 |
+| **Operating System** | Windows 10 (64-bit) |
+| **Processor** | Intel Core i3 / AMD Ryzen 3 |
 | **RAM** | 4 GB |
-| **Disk Alanı** | 500 MB boş alan |
-| **İnternet** | İlk kurulum ve güncelleme için |
+| **Disk Space** | 500 MB free space |
+| **Internet** | Required for initial setup and updates |
 
-### Önerilen Gereksinimler
+### Recommended Requirements
 
-| Bileşen | Gereksinim |
+| Component | Requirement |
 |---------|-----------|
-| **İşletim Sistemi** | Windows 11 (64-bit) |
-| **İşlemci** | Intel Core i5 / AMD Ryzen 5 |
+| **Operating System** | Windows 11 (64-bit) |
+| **Processor** | Intel Core i5 / AMD Ryzen 5 |
 | **RAM** | 8 GB |
-| **Disk Alanı** | 1 GB boş alan |
+| **Disk Space** | 1 GB free space |
 
-### Ek Gereksinimler
+### Additional Requirements
 
-- ✅ **League of Legends** yüklü olmalı
-- ✅ **.NET Framework 4.7.2** veya üzeri
-- ✅ **Visual C++ Redistributable** paketleri
+- ✅ **League of Legends** must be installed
+- ✅ **.NET Framework 4.7.2** or higher
+- ✅ **Visual C++ Redistributable** packages
 
 ---
 
-## 📥 Kurulum
+## 📥 Installation
 
-### Adım 1: İndirme
+### Step 1: Download
 
-1. **[Releases](https://github.com/copief/PUFF-Skin-Changer/releases)** sayfasına gidin
-2. En son sürümü bulun (örn: **v0.1.2**)
-3. **`PUFF v0.1.2.exe`** dosyasını indirin
+1. Go to **[Releases](https://github.com/copief/PUFF-Skin-Changer/releases)** page
+2. Find the latest version (e.g., **v0.1.2**)
+3. Download **`PUFF v0.1.2.exe`** file
 
-### Adım 2: Çalıştırma
+### Step 2: Run
 
-1. İndirdiğiniz **`.exe`** dosyasını istediğiniz klasöre koyun
-   - ✅ Masaüstü
-   - ✅ Belgeler
-   - ✅ USB sürücü (portable kullanım)
+1. Place the downloaded **`.exe`** file in your desired folder
+   - ✅ Desktop
+   - ✅ Documents
+   - ✅ USB drive (for portable use)
 
-2. Dosyaya **çift tıklayın**
-   - İlk çalıştırmada **Windows Defender** uyarısı çıkabilir
-   - **"Daha fazla bilgi"** → **"Yine de çalıştır"** seçin
+2. **Double-click** the file
+   - You may get a **Windows Defender** warning on first run
+   - Select **"More info"** → **"Run anyway"**
 
-3. Uygulama açılır ve **kullanıma hazır**!
+3. Application opens and is **ready to use**!
 
-### ⚡ Hızlı Başlangıç
+### ⚡ Quick Start
 
 ```
-1. PUFF'u başlatın
-2. Bir şampiyon seçin
-3. İstediğiniz skin'e tıklayın
-4. "Uygula" butonuna basın
-5. League of Legends'ı başlatın ve keyfini çıkarın! 🎮
+1. Launch PUFF
+2. Select a champion
+3. Click on your desired skin
+4. Press "Apply" button
+5. Start League of Legends and enjoy! 🎮
 ```
 
-> **Not:** İlk çalıştırmada uygulama League of Legends yolunu otomatik tespit eder. Tespit edilmezse manuel olarak ayarlayabilirsiniz.
+> **Note:** On first launch, the application will automatically detect your League of Legends path. If not detected, you can set it manually.
 
 ---
 
-## 📖 Kullanım Kılavuzu
+## 📖 User Guide
 
-### 🎨 Skin Uygulama (Temel Kullanım)
+### 🎨 Applying Skins (Basic Usage)
 
-#### 1️⃣ Şampiyon Seçimi
+#### 1️⃣ Champion Selection
 
-- Sol taraftaki **şampiyon listesinden** seçin
-- Veya **arama çubuğunu** kullanın (**Ctrl+F**)
-- **Alfabetik navigasyon** için harflere tıklayın
+- Select from the **champion list** on the left
+- Or use the **search bar** (**Ctrl+F**)
+- Click letters for **alphabetical navigation**
 
-#### 2️⃣ Skin Seçimi
+#### 2️⃣ Skin Selection
 
-- Sağ tarafta çıkan **skin galerisinden** birini seçin
-- Önizleme için üzerine **gelin**
-- Detaylı bilgi için **tıklayın**
+- Choose from the **skin gallery** on the right
+- **Hover** for preview
+- **Click** for detailed information
 
-#### 3️⃣ Skin Uygulama
+#### 3️⃣ Apply Skin
 
-- **"Uygula"** butonuna tıklayın
-- Başarı bildirimi göreceksiniz ✅
-- Artık oyunda skin aktif!
+- Click the **"Apply"** button
+- You'll see a success notification ✅
+- The skin is now active in-game!
 
-#### 4️⃣ Skin Kaldırma
+#### 4️⃣ Remove Skin
 
-- **"Temizle"** butonuna tıklayın
-- Veya başka bir skin uygulayın
-- Oyunu yeniden başlatarak da iptal edebilirsiniz
-
----
-
-### 🤖 Otomasyon Özellikleri
-
-#### **Auto Accept (Otomatik Kabul)**
-
-1. Ana ekranda **"Auto Accept"** butonuna tıklayın
-2. Ayarlardan **gecikme süresi** belirleyin (0-5 saniye)
-3. **Ses bildirimi** açın/kapatın
-4. Etkinleştirildiğinde maç bulunduğunda **otomatik kabul eder**
-
-#### **Auto Ban/Pick (Otomatik Ban/Seç)**
-
-1. **Ayarlar** → **Otomasyon** → **Auto Ban/Pick**
-2. **Ban tercihleri** belirleyin (1. ve 2. tercih)
-3. **Pick tercihleri** belirleyin (rol bazlı)
-4. Sıralı maçta **otomatik ban ve pick** yapar
-
-#### **Auto Skin (Otomatik Skin)**
-
-1. **Ayarlar** → **Otomasyon** → **Auto Skin**
-2. Şampiyonlar için **favori skin** ayarlayın
-3. Oyunda şampiyon seçtiğinizde **otomatik skin uygulanır**
+- Click the **"Clear"** button
+- Or apply another skin
+- You can also restart the game to cancel
 
 ---
 
-### 🌟 Favori Sistemi
+### 🤖 Automation Features
 
-#### Favori Şampiyon Ekleme
+#### **Auto Accept**
 
-1. Şampiyon sayfasında ⭐ **yıldız simgesine** tıklayın
-2. Şampiyon **favorilere eklenir**
-3. Sol menüde **"Favoriler"** sekmesinde görünür
+1. Click **"Auto Accept"** button on main screen
+2. Set **delay time** in settings (0-5 seconds)
+3. Enable/disable **audio notification**
+4. When enabled, **automatically accepts** when match is found
 
-#### Favori Skin Ayarlama
+#### **Auto Ban/Pick**
 
-1. Şampiyonun istediğiniz skin'ini seçin
-2. ❤️ **kalp simgesine** tıklayın
-3. Bu skin **favoriniz** olarak kaydedilir
-4. **"Auto Skin"** açıksa bu skin otomatik uygulanır
+1. **Settings** → **Automation** → **Auto Ban/Pick**
+2. Set **ban preferences** (1st and 2nd choice)
+3. Set **pick preferences** (role-based)
+4. **Automatically bans and picks** in ranked matches
 
----
+#### **Auto Skin**
 
-### 📦 Özel Skin Ekleme (.fantome)
-
-#### `.fantome` Dosyası İçe Aktarma
-
-1. Sol menüden **"Custom Skins"** seçin
-2. **"Import Custom Skin"** butonuna tıklayın
-3. **`.fantome`** dosyasını seçin
-
-#### Meta Veri Ekleme
-
-- **İsim**: Skin için bir isim verin
-- **Açıklama**: Kısa bir açıklama ekleyin
-- **Görsel**: Skin için bir resim seçin
-- **Şampiyon**: Hangi şampiyon için olduğunu seçin
-
-#### Kaydetme ve Uygulama
-
-- **"Kaydet"** butonuna tıklayın
-- Artık normal skin'ler gibi **uygulayabilirsiniz**
-
-> **Not:** Özel skin'ler `%APPDATA%/copief/customs/` klasöründe saklanır
+1. **Settings** → **Automation** → **Auto Skin**
+2. Set **favorite skins** for champions
+3. **Skin is automatically applied** when you select a champion in-game
 
 ---
 
-### ⚙️ Ayarlar
+### 🌟 Favorites System
 
-#### **Görünüm Ayarları**
+#### Adding Favorite Champions
 
-- **Tema**: Koyu / Açık
-- **Renk Teması**: 10+ hazır palet
-- **Grid Boyutu**: 2-6 kolon
-- **Animasyon Hızı**: Hızlı / Normal / Yavaş / Kapalı
+1. Click the ⭐ **star icon** on champion page
+2. Champion is **added to favorites**
+3. Appears in **"Favorites"** tab in left menu
 
-#### **Performans Ayarları**
+#### Setting Favorite Skins
 
-- **Önbellek Boyutu**: 100-1000 MB
-- **Görüntü Kalitesi**: Yüksek / Orta / Düşük
-- **Yükleme Modu**: Tümü / İhtiyaç anında
-
-#### **Bildirim Ayarları**
-
-- Skin uygulandığında bildir
-- Güncelleme bildirimleri
-- Masaüstü bildirimleri
-- Ses bildirimleri
+1. Select your desired skin for the champion
+2. Click the ❤️ **heart icon**
+3. This skin is saved as your **favorite**
+4. If **"Auto Skin"** is enabled, this skin will be auto-applied
 
 ---
 
-## 🎨 Ekran Görüntüleri
+### 📦 Adding Custom Skins (.fantome)
+
+#### Importing `.fantome` Files
+
+1. Select **"Custom Skins"** from left menu
+2. Click **"Import Custom Skin"** button
+3. Select **`.fantome`** file
+
+#### Adding Metadata
+
+- **Name**: Give a name for the skin
+- **Description**: Add a short description
+- **Image**: Select an image for the skin
+- **Champion**: Select which champion it's for
+
+#### Save and Apply
+
+- Click **"Save"** button
+- You can now **apply it** like regular skins
+
+> **Note:** Custom skins are stored in `%APPDATA%/copief/customs/` folder
+
+---
+
+### ⚙️ Settings
+
+#### **Appearance Settings**
+
+- **Theme**: Dark / Light
+- **Color Theme**: 10+ ready-made palettes
+- **Grid Size**: 2-6 columns
+- **Animation Speed**: Fast / Normal / Slow / Off
+
+#### **Performance Settings**
+
+- **Cache Size**: 100-1000 MB
+- **Image Quality**: High / Medium / Low
+- **Loading Mode**: All / On-demand
+
+#### **Notification Settings**
+
+- Notify when skin is applied
+- Update notifications
+- Desktop notifications
+- Audio notifications
+
+---
+
+## 🎨 Screenshots
 
 <div align="center">
 
-### Ana Ekran - Şampiyon ve Skin Seçimi
+### Main Screen - Champion and Skin Selection
 
-![Ana Ekran](https://cdn.discordapp.com/attachments/1100782767828115467/1441493294700957777/20F50A82-6608-45B9-B7E7-6D9B6F55BC5D.png?ex=6921febf&is=6920ad3f&hm=ad25b3da9c2a5f3bb75d432f08dac28fedba636b91997771641d1faa9bec341b&)
+![Main Screen](https://cdn.discordapp.com/attachments/1100782767828115467/1441493294700957777/20F50A82-6608-45B9-B7E7-6D9B6F55BC5D.png?ex=6921febf&is=6920ad3f&hm=ad25b3da9c2a5f3bb75d432f08dac28fedba636b91997771641d1faa9bec341b&)
 
-### Skin Galerisi - Detaylı Önizleme
+### Skin Gallery - Detailed Preview
 
-![Skin Galerisi](https://cdn.discordapp.com/attachments/1100782767828115467/1441493437143715840/DD5BFD51-658D-4456-A7E2-6FDC647FDBF2.png?ex=6921fee1&is=6920ad61&hm=f54f7ac6ee21daa4e30a2fe6866e6f20a186410c1442bf8eabd5bb8fa57f6944&)
+![Skin Gallery](https://cdn.discordapp.com/attachments/1100782767828115467/1441493437143715840/DD5BFD51-658D-4456-A7E2-6FDC647FDBF2.png?ex=6921fee1&is=6920ad61&hm=f54f7ac6ee21daa4e30a2fe6866e6f20a186410c1442bf8eabd5bb8fa57f6944&)
 
-### Otomasyon Özellikleri
+### Automation Features
 
-![Otomasyon](https://cdn.discordapp.com/attachments/1100782767828115467/1441493837401952287/1673A222-C8A1-4CBB-9B15-90F95EDE1F65.png?ex=6921ff40&is=6920adc0&hm=2a5f5894add9dcd83b5968c0315dcb7a62be9868d8e6fc59f79cbb46f13f99b9&)
+![Automation](https://cdn.discordapp.com/attachments/1100782767828115467/1441493837401952287/1673A222-C8A1-4CBB-9B15-90F95EDE1F65.png?ex=6921ff40&is=6920adc0&hm=2a5f5894add9dcd83b5968c0315dcb7a62be9868d8e6fc59f79cbb46f13f99b9&)
 
 </div>
 
 ---
 
-## ❓ Sık Sorulan Sorular
+## ❓ Frequently Asked Questions
 
-### Genel Sorular
+### General Questions
 
-**S: PUFF nedir?**
-> C: PUFF, League of Legends için geliştirilmiş **ücretsiz ve güvenli** bir skin değiştirici uygulamasıdır. Tüm şampiyonların görünümünü değiştirmenize olanak tanır.
+**Q: What is PUFF?**
+> A: PUFF is a **free and secure** skin changer application developed for League of Legends. It allows you to change the appearance of champions in-game.
 
-**S: PUFF yasal mı? Ban yer miyim?**
-> C: PUFF sadece **görsel değişiklikler** yapar ve oyun dosyalarına **kalıcı müdahale etmez**. Ancak tüm 3. parti yazılımlar gibi **kullanımı kendi sorumluluğunuzdadır**. Riot Games'in kullanım şartlarını okumanızı öneririz.
+**Q: Is PUFF legal? Will I get banned?**
+> A: PUFF only makes **visual changes** and does not **permanently interfere** with game files. However, like all 3rd party software, **use is at your own responsibility**. We recommend reading Riot Games' terms of use.
 
-**S: Ücretli mi?**
-> C: **Hayır**, PUFF tamamen **ücretsizdir**! 💯
+**Q: Is it paid?**
+> A: **No**, PUFF is **completely free**! 💯
 
-**S: Sadece benim gözüküyor mu?**
-> C: **Evet**, skin değişiklikleri sadece sizin bilgisayarınızda görünür. Diğer oyuncular varsayılan skin'inizi görür.
+**Q: Does only I see it?**
+> A: **Yes**, skin changes are only visible on your computer. Other players see your default skin.
 
-**S: Hangi platformlarda çalışır?**
-> C: Şu anda sadece **Windows 10/11 (64-bit)** desteklenmektedir.
-
----
-
-### Kurulum ve Çalıştırma
-
-**S: Nasıl kurarım?**
-> C: Kurulum gerekmez! **`.exe`** dosyasını indirip çift tıklayın. **Portable** bir uygulamadır.
-
-**S: Windows Defender uyarısı veriyor?**
-> C: İmzasız uygulamalar için **normal** bir durumdur. **"Daha fazla bilgi"** → **"Yine de çalıştır"** seçeneğini kullanın. Uygulama **tamamen güvenlidir**.
-
-**S: League of Legends yolunu bulamıyor?**
-> C: **Ayarlar** → **League Yolu** → **Gözat** menüsünden manuel olarak **`LeagueClient.exe`** dosyasını seçin.
-
-**S: Çalıştırırken hata alıyorum?**
-> C: 
-> - Windows'u güncelleyin
-> - .NET Framework 4.7.2 yükleyin
-> - Visual C++ Redistributable yükleyin
-> - Yönetici olarak çalıştırmayı deneyin
+**Q: Which platforms does it work on?**
+> A: Currently only **Windows 10/11 (64-bit)** is supported.
 
 ---
 
-### Kullanım Soruları
+### Installation and Running
 
-**S: Skin'ler nasıl uygulanır?**
-> C: Şampiyonu seçin, istediğiniz skin'e tıklayın ve **"Uygula"** butonuna basın. **O kadar basit!** ✨
+**Q: How do I install?**
+> A: No installation required! Download the **`.exe`** file and double-click. It's a **portable** application.
 
-**S: Birden fazla şampiyon için skin uygulayabilir miyim?**
-> C: **Evet!** Tüm şampiyonlar için istediğiniz skin'leri uygulayabilirsiniz.
+**Q: Windows Defender gives a warning?**
+> A: This is **normal** for unsigned applications. Use **"More info"** → **"Run anyway"** option. The application is **completely safe**.
 
-**S: Skin'i nasıl kaldırırım?**
-> C: **"Temizle"** butonuna tıklayın veya oyunu yeniden başlatın.
+**Q: Can't find League of Legends path?**
+> A: Manually select **`LeagueClient.exe`** file from **Settings** → **League Path** → **Browse** menu.
 
-**S: Özel .fantome skin'lerini nasıl eklerim?**
-> C: **Custom Skins** → **Import Custom Skin** → `.fantome` dosyasını seçin → Meta verileri doldurun → **Kaydedin**.
-
----
-
-### Otomasyon Soruları
-
-**S: Auto Accept her zaman çalışıyor mu?**
-> C: Evet, etkinleştirdiğinizde PUFF **arka planda çalışır** ve maç bulunduğunda **otomatik kabul eder**.
-
-**S: Auto Ban/Pick güvenli mi?**
-> C: **Evet**, ancak her zaman **manuel müdahale** edebilirsiniz. Ayarlardan gecikmeler ve güvenlik önlemleri ekleyebilirsiniz.
-
-**S: Otomatik skin uygulanmıyor?**
-> C: 
-> - **Auto Skin** özelliğinin açık olduğundan emin olun
-> - Şampiyon için **favori skin** ayarladığınızdan emin olun
-> - PUFF'un **arka planda çalıştığını** kontrol edin
+**Q: I get an error when running?**
+> A: 
+> - Update Windows
+> - Install .NET Framework 4.7.2
+> - Install Visual C++ Redistributable
+> - Try running as administrator
 
 ---
 
-### Teknik Sorular
+### Usage Questions
 
-**S: PUFF ne kadar RAM kullanır?**
-> C: Genellikle **150-300 MB** arasında, ayarlara bağlı olarak değişir.
+**Q: How are skins applied?**
+> A: Select champion, click on your desired skin, and press **"Apply"** button. **That simple!** ✨
 
-**S: İnternet bağlantısı gerekli mi?**
-> C: İlk kurulum ve güncelleme için **evet**. Normal kullanımda **çevrimdışı** çalışabilir.
+**Q: Can I apply skin for multiple champions?**
+> A: **Yes!** You can apply desired skins for all champions.
 
-**S: Verilerim nerede saklanıyor?**
-> C: **`%APPDATA%/copief/`** klasöründe, **şifrelenmiş** olarak saklanır.
+**Q: How do I remove skin?**
+> A: Click **"Clear"** button or restart the game.
 
-**S: Skin'ler ne kadar yer kaplar?**
-> C: Önbellek boyutuna bağlı olarak **100-500 MB** arası. Ayarlardan temizleyebilirsiniz.
-
----
-
-## 🔒 Güvenlik
-
-### Güvenli Tasarım
-
-**PUFF**, güvenliğinizi ön planda tutar:
-
-✅ **Şifreli Veri Saklama**
-- Ayarlarınız **güvenli şekilde** saklanır
-- Verileriniz **yerel olarak** korunur
-- Kişisel bilgileriniz **güvende**
-
-✅ **Güvenli Bağlantı**
-- **SSL/TLS** şifreleme
-- Güvenli güncelleme sistemi
-- Dijital imza doğrulaması
-
-✅ **Gizlilik**
-- **Hiçbir veri toplama** yapılmaz
-- Hesap bilgileriniz **kaydedilmez**
-- Üçüncü taraflarla **veri paylaşımı yok**
-
-### PUFF Şunları YAPMAZ
-
-- ❌ Oyun dosyalarını **kalıcı olarak değiştirmez**
-- ❌ Hesap bilgilerinizi **kaydetmez**
-- ❌ Üçüncü taraflarla **veri paylaşmaz**
-- ❌ Kişisel bilgilerinizi **toplamaz**
-- ❌ Arka planda **izleme yapmaz**
-
-### PUFF Şunları YAPAR
-
-- ✅ Sadece **görsel değişiklikler** uygular
-- ✅ Verilerinizi **yerel olarak** saklar
-- ✅ **Güvenli bağlantı** kullanır
-- ✅ **Şeffaf** çalışır
-
-### Güvenlik Tavsiyeleri
-
-1. ✅ **Resmi kaynaktan indirin**
-   - GitHub Releases sayfasını kullanın
-   - Üçüncü parti sitelerden indirmeyin
-
-2. ✅ **Güncel tutun**
-   - Otomatik güncellemeleri açık bırakın
-   - Güvenlik yamalarını atlayamayın
-
-3. ✅ **Antivirüs uyarıları**
-   - İlk çalıştırmada uyarı normaldir
-   - Güvenli listesine ekleyebilirsiniz
+**Q: How do I add custom .fantome skins?**
+> A: **Custom Skins** → **Import Custom Skin** → Select `.fantome` file → Fill metadata → **Save**.
 
 ---
 
-## 💬 Destek
+### Automation Questions
 
-### Yardım Kaynakları
+**Q: Does Auto Accept always work?**
+> A: Yes, when enabled, PUFF **runs in background** and **automatically accepts** when match is found.
 
-#### 💬 Discord Sunucusu (ÖNERİLEN)
+**Q: Is Auto Ban/Pick safe?**
+> A: **Yes**, but you can always **manually intervene**. You can add delays and security measures from settings.
 
-[![Discord](https://img.shields.io/badge/Discord-Katıl-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/puffskin)
+**Q: Auto skin not applying?**
+> A: 
+> - Make sure **Auto Skin** feature is enabled
+> - Make sure you've set **favorite skin** for champion
+> - Check if PUFF is **running in background**
 
-**Discord sunucumuzda:**
-- ✅ **Anlık destek** alın
-- ✅ Toplulukla **sohbet** edin
-- ✅ **Güncellemelerden** haberdar olun
-- ✅ **Önerilerde** bulunun
-- ✅ **Hataları** bildirin
+---
+
+### Technical Questions
+
+**Q: How much RAM does PUFF use?**
+> A: Usually between **150-300 MB**, varies depending on settings.
+
+**Q: Is internet connection required?**
+> A: Yes for initial setup and updates. Can work **offline** in normal use.
+
+**Q: Where is my data stored?**
+> A: In **`%APPDATA%/copief/`** folder, **encrypted**.
+
+**Q: How much space do skins take?**
+> A: Between **100-500 MB** depending on cache size. Can be cleaned from settings.
+
+---
+
+## 🔒 Security
+
+### Secure Design
+
+**PUFF** prioritizes your security:
+
+✅ **Encrypted Data Storage**
+- Your settings are stored **securely**
+- Your data is protected **locally**
+- Your personal information is **safe**
+
+✅ **Secure Connection**
+- **SSL/TLS** encryption
+- Secure update system
+- Digital signature verification
+
+✅ **Privacy**
+- **No data collection**
+- Your account information is **not stored**
+- **No data sharing** with third parties
+
+### PUFF Does NOT
+
+- ❌ **Permanently modify** game files
+- ❌ **Store** your account information
+- ❌ **Share** data with third parties
+- ❌ **Collect** your personal information
+- ❌ **Track** in background
+
+### PUFF Does
+
+- ✅ Only applies **visual changes**
+- ✅ Stores your data **locally**
+- ✅ Uses **secure connection**
+- ✅ Works **transparently**
+
+### Security Recommendations
+
+1. ✅ **Download from official source**
+   - Use GitHub Releases page
+   - Don't download from third-party sites
+
+2. ✅ **Keep updated**
+   - Keep auto-updates enabled
+   - Don't skip security patches
+
+3. ✅ **Antivirus warnings**
+   - Warning on first run is normal
+   - You can add to safe list
+
+---
+
+## 💬 Support
+
+### Help Resources
+
+#### 💬 Discord Server (RECOMMENDED)
+
+[![Discord](https://img.shields.io/badge/Discord-Join-7289DA?style=for-the-badge&logo=discord)](https://discord.gg/puffskin)
+
+**On our Discord server:**
+- ✅ Get **instant support**
+- ✅ **Chat** with the community
+- ✅ Stay updated on **updates**
+- ✅ Make **suggestions**
+- ✅ **Report bugs**
 
 #### 🌐 GitHub
 
-- **Issues**: Hata bildirimi ve öneriler
-- **Discussions**: Genel tartışmalar ve sorular
+- **Issues**: Bug reports and suggestions
+- **Discussions**: General discussions and questions
 
-### Hata Raporlama
+### Bug Reporting
 
-Hata bildirirken şunları ekleyin:
+When reporting bugs, include:
 
 ```markdown
-**Sorun Açıklaması:**
-[Sorunun detaylı açıklaması]
+**Problem Description:**
+[Detailed description of the problem]
 
-**Adımlar:**
-1. Ne yaptınız?
-2. Ne oldu?
-3. Ne olmasını bekliyordunuz?
+**Steps:**
+1. What did you do?
+2. What happened?
+3. What did you expect to happen?
 
-**Sistem Bilgileri:**
-- Windows Sürümü: [örn. Windows 11]
-- PUFF Sürümü: [örn. v0.1.2]
-- LoL Sürümü: [örn. 14.1]
+**System Information:**
+- Windows Version: [e.g., Windows 11]
+- PUFF Version: [e.g., v0.1.2]
+- LoL Version: [e.g., 14.1]
 
-**Ekran Görüntüsü:**
-[Varsa ekleyin]
+**Screenshot:**
+[Add if available]
 ```
 
 ---
 
-## 📜 Lisans ve Yasal Uyarı
+## 📜 License and Legal Notice
 
-### Lisans
+### License
 
-Bu proje **MIT Lisansı** altında lisanslanmıştır.
+This project is licensed under **MIT License**.
 
-### Yasal Uyarı
+### Legal Notice
 
-**PUFF Skin Changer**, League of Legends için bir **üçüncü taraf uygulamasıdır** ve **Riot Games tarafından desteklenmemektedir**. Bu uygulama, oyun dosyalarını kalıcı olarak değiştirmez ve sadece **görsel değişiklikler** yapar.
+**PUFF Skin Changer** is a **third-party application** for League of Legends and is **not endorsed by Riot Games**. This application does not permanently modify game files and only makes **visual changes**.
 
-#### ⚠️ Önemli Notlar
+#### ⚠️ Important Notes
 
-- Bu uygulama **Riot Games ile bağlantılı değildir**
-- Kullanımı **kendi sorumluluğunuzdadır**
-- Hesap güvenliğiniz **sizin sorumluluğunuzdadır**
-- **Riot Games'in kullanım şartlarını** okuyun
+- This application is **not affiliated with Riot Games**
+- Use is **at your own responsibility**
+- Your account security is **your responsibility**
+- **Read Riot Games' terms of use**
 
-#### 📋 Feragatname
+#### 📋 Disclaimer
 
-Geliştiriciler, bu uygulamanın kullanımından kaynaklanan:
-- ❌ Hesap yasakları
-- ❌ Veri kayıpları
-- ❌ Sistem sorunları
-- ❌ Diğer herhangi bir zarar
-
-için **sorumluluk kabul etmez**.
+Developers accept **no liability** for consequences arising from using this application:
+- ❌ Account bans
+- ❌ Data loss
+- ❌ System issues
+- ❌ Any other damages
 
 ---
 
 <div align="center">
 
-## ⭐ Beğendiyseniz Yıldız Verin!
+## ⭐ Give Us a Star!
 
-Bu proje size yardımcı olduysa, GitHub'da ⭐ vererek destek olabilirsiniz!
+If this project helped you, you can support by giving a ⭐ on GitHub!
 
 ---
 
-### 📱 Bağlantılar
+### 📱 Links
 
-[![Discord](https://img.shields.io/badge/Discord-Sunucumuza%20Katıl-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/puffskin)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/puffskin)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/copief/PUFF-Skin-Changer)
-[![İndir](https://img.shields.io/badge/Download-Son%20Sürüm-blue?style=for-the-badge&logo=download)](https://github.com/copief/PUFF-Skin-Changer/releases)
-[![Issues](https://img.shields.io/badge/Issues-Bildir-red?style=for-the-badge&logo=github)](https://github.com/copief/PUFF-Skin-Changer/issues)
+[![Download](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge&logo=download)](https://github.com/copief/PUFF-Skin-Changer/releases)
+[![Issues](https://img.shields.io/badge/Issues-Report-red?style=for-the-badge&logo=github)](https://github.com/copief/PUFF-Skin-Changer/issues)
 
 ---
 
-**League of Legends topluluğu için ❤️ ile yapıldı**
+**Made with ❤️ for the League of Legends community**
 
-*Sorularınız mı var? Discord sunucumuza katılın!* 💬
+*Have questions? Join our Discord server!* 💬
 
-*Oyun deneyiminizin tadını çıkarın!* 🎮✨
+*Enjoy your gaming experience!* 🎮✨
 
-**👨‍💻 Geliştirici:** [copief](https://github.com/copief)
+**👨‍💻 Developer:** [copief](https://github.com/copief)
 
 ---
 
 <sub>PUFF Skin Changer © 2025 | Modern League of Legends Skin Changer 2025</sub>
 
-[⬆ Başa Dön](#-puff-skin-changer)
+[⬆ Back to Top](#-puff-skin-changer)
 
 </div>
